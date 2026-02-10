@@ -1,4 +1,4 @@
-const cacheName = "Team 31 Productions-GetRight-0.1.0";
+const cacheName = "Alter Ego Productions-Alter Ego-0.1.0";
 const contentToCache = [
     "Build/paired-prototype.loader.js",
     "Build/paired-prototype.framework.js",
